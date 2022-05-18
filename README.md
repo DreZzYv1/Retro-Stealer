@@ -7,8 +7,8 @@ RetroStealer is a new discord token logger, roblox cookie logger and password st
 
 # FEATURES
 
-Wifi Password Stealer
-Steam Session Stealer
+> Wifi Password Stealer
+> Steam Session Stealer
 Discord Token Logger (from browser + discord app)
 Telegram Session Stealer
 Minecraft Account Session Stealer
